@@ -1,2 +1,2 @@
-# kylebthompson-resume.github.io
+# kylebthompson.github.io
 resume website
